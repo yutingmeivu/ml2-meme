@@ -9,7 +9,7 @@
 
 ## 2. Image to meme
 
-### data sources link:
+### lstm model data sources link[1]:
 https://drive.google.com/file/d/1j6YG3skamxA1-mdogC1kRjugFuOkHt_A/edit
 
 ## 3. Reference
