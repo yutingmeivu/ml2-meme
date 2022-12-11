@@ -1,18 +1,18 @@
 # ml2-meme
 
 
-## Text to meme
+## 1. Text to meme
 
 ### dall-e model data sources link:
 * pure image: https://drive.google.com/drive/folders/10mIR0fsrdDnxGjYQJsmA5PUq4FXhFuBl?usp=share_link
 * total image(with pairs of image and text): https://drive.google.com/drive/folders/1unnqFdWkBqETbBbf1VoAYn3VXMWOtVht?usp=share_link
 
-## Image to meme
+## 2. Image to meme
 
 ### data sources link:
 https://drive.google.com/file/d/1j6YG3skamxA1-mdogC1kRjugFuOkHt_A/edit
 
-## Reference
+## 3. Reference
 
 1. DeepHumor: Image-based Meme Generation using Deep Learning (Borovik et al. 2020)
 2. Dank Learning - three types of CNN encoders + LSTM decoder with pre-trained GloVe embeddings (Peirson et al. 2018)
