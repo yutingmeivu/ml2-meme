@@ -20,3 +20,5 @@ https://drive.google.com/file/d/1j6YG3skamxA1-mdogC1kRjugFuOkHt_A/edit
 4. Meme Caption Generation (Masom et al. 2020)
 5. Ramesh A, Pavlov M, Goh G, et al. Zero-shot text-to-image generation[C]//International Conference on Machine Learning. PMLR, 2021: 8821-8831.
 6. Code reference: https://www.kaggle.com/datasets/shadabhussain/flickr8k/code & DeepHumor: Image-based Meme Generation using Deep Learning (Borovik et al. 2020)
+7. Ramesh A, Pavlov M, Goh G, et al. Zero-shot text-to-image generation[C]//International Conference on Machine Learning. PMLR, 2021: 8821-8831.
+8. https://vaclavkosar.com/ml/openai-dall-e-2-and-dall-e-1
